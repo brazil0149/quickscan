@@ -12,4 +12,6 @@ examples/servlets/servlet/CookieExample
 cdn-cgi/trace
 v2/inc/dbconn.inc
 wp-includes/php_errors.log
-platform.php
+.bash_history
+wp-config.php
+wordpress/wp-config.php
