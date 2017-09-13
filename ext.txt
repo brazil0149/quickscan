@@ -1,0 +1,10 @@
+robots.txt
+wp-login
+.DS_Store
+trace.axd
+cdn-cgi/trace
+phpmyadmin
+.git
+.svn
+
+
