@@ -2,8 +2,8 @@
 
 extentions=`/bin/cat ext.txt` 
 
-for i in extentions
+for i in $extentions
 do
-	chromium --no-sandbox $1/$extentions
+	chromium --no-sandbox $1/$i  
 
 done
