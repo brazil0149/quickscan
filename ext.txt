@@ -2,9 +2,14 @@ robots.txt
 wp-login
 .DS_Store
 trace.axd
-cdn-cgi/trace
 phpmyadmin
 .git
 .svn
-
-
+rest
+platform.php
+examples/servlets/servlet/RequestHeaderExample   
+examples/servlets/servlet/CookieExample
+cdn-cgi/trace
+v2/inc/dbconn.inc
+wp-includes/php_errors.log
+platform.php
