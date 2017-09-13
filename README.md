@@ -1,4 +1,4 @@
-# quickscan
+# quickscan explanation
 
 chmod +x domain.sh
 
