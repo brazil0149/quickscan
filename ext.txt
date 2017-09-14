@@ -15,3 +15,10 @@ wp-includes/php_errors.log
 .bash_history
 wp-config.php
 wordpress/wp-config.php
+reports
+stats
+wp-admin/
+wp-includes/
+wp-content/plugins/
+forum/login/
+forum/admin.php
