@@ -8,6 +8,7 @@ phpmyadmin
 rest
 dbfunction.inc
 htpasswd 
+/etc/passwd
 platform.php
 examples/servlets/servlet/RequestHeaderExample   
 examples/servlets/servlet/CookieExample
