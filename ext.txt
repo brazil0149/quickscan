@@ -6,6 +6,8 @@ phpmyadmin
 .git
 .svn
 rest
+dbfunction.inc
+htpasswd 
 platform.php
 examples/servlets/servlet/RequestHeaderExample   
 examples/servlets/servlet/CookieExample
@@ -13,6 +15,7 @@ cdn-cgi/trace
 v2/inc/dbconn.inc
 wp-includes/php_errors.log
 .bash_history
+.bashrc
 wp-config.php
 wordpress/wp-config.php
 reports
