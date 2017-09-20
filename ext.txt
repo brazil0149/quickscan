@@ -9,6 +9,8 @@ rest
 dbfunction.inc
 htpasswd 
 /etc/passwd
+clientaccesspolicy.xml
+crossdomain.xml
 platform.php
 examples/servlets/servlet/RequestHeaderExample   
 examples/servlets/servlet/CookieExample
