@@ -1,4 +1,5 @@
 //google.com/%2f..
+readme.html
 robots.txt
 wp-login
 .DS_Store
