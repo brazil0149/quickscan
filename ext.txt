@@ -1,9 +1,9 @@
 //google.com/%2f..
 readme.html
+jenkins
 robots.txt
 wp-login
 .DS_Store
-trace.axd
 phpmyadmin
 .git
 .svn
