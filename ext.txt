@@ -9,6 +9,7 @@ jenkins
 robots.txt
 wp-login
 .DS_Store
+phpinfo.php
 phpmyadmin
 .git
 .svn
@@ -27,6 +28,7 @@ wp-includes/php_errors.log
 .bash_history
 .bashrc
 wp-config.php
+wp-config.phpbak
 wordpress/wp-config.php
 reports
 stats
