@@ -16,7 +16,7 @@ phpmyadmin
 rest
 dbfunction.inc
 htpasswd 
-/etc/passwd
+etc/passwd
 clientaccesspolicy.xml
 crossdomain.xml
 platform.php
@@ -35,5 +35,6 @@ stats
 wp-admin/
 wp-includes/
 wp-content/plugins/
+wp-admin/install.php
 forum/login/
 forum/admin.php
