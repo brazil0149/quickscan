@@ -36,5 +36,4 @@ wp-admin/
 wp-includes/
 wp-content/plugins/
 wp-admin/install.php
-forum/login/
 forum/admin.php

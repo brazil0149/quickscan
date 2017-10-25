@@ -1,7 +1,8 @@
 # quickscan explanation
 
-chmod +x domain.sh
+Testing domains for interesting URL's
 
+chmod +x domain.sh
 
 ./domain.sh example.com
 
