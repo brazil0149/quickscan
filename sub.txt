@@ -1,5 +1,15 @@
+dev
 jira
 test
 staging
 m
-
+amazonaws
+desk
+tumblr
+heroku
+github
+content
+sandbox
+api
+app
+email
